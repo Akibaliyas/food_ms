@@ -1,0 +1,5 @@
+
+http://localhost/food_ms/
+Email: admin@food.com
+
+Password: password
